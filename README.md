@@ -45,8 +45,8 @@ brew install granted
 Add your long-term static credentials and MFA serial:
 
 ``` bash
-AWS_ACCESS_KEY_ID=AKIAxxxxxxxxxxxxxxxx
-AWS_SECRET_ACCESS_KEY=wJalrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+AWS_ACCESS_KEY_ID=xxxxxxxxxxxxxxxx
+AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 MFA_SERIAL=arn:aws:iam::123456789012:mfa/your-device
 ```
 
